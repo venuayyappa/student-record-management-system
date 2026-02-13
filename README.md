@@ -10,7 +10,7 @@ A simple CLI-based CRUD application built using Java to manage student records.
 - Delete Student
 - Menu-driven interface
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java
 - ArrayList (Collections Framework)
